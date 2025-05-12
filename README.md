@@ -60,7 +60,7 @@ Includes anti-detection logic, proxy management, and task scheduling for safe 24
     <code>Join Our Server</code>
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/appilotdev">
+  <a href="https://t.me/devpilot1">
     <img
       alt="Contact us"
       width="30px"
